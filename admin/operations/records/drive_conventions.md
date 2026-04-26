@@ -30,6 +30,10 @@ File names (keep consistent):
 - `Budget — [Project] — v1.xlsx`
 - `Closeout Summary — [Project] — YYYY-MM-DD.docx`
 
+For `02 Finance`, keep monthly banking records from **Stanford Federal Credit Union** consistent:
+- `Bank Statement — Stanford Federal Credit Union — YYYY-MM.pdf`
+- `Transaction Export — Stanford Federal Credit Union — YYYY-MM.csv`
+
 ## “Create a new Event” checklist (Project Coordinator can run)
 1) Create WildApricot Event using the right template (Rehearsal Block / Performance / Video Shoot).
 2) Create the matching Drive folder using the naming format above.

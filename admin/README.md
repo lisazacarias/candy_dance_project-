@@ -12,7 +12,7 @@ Edit the `.md` source files here; generated PDFs are written to `admin_pdfs/` us
 - `governance/officer_acknowledgement.md` — bylaws adoption and officer signature page
 
 ## Finance
-- `finance/finance_reimbursement_policy.md` — spending approvals, reimbursement timing, reporting, retention
+- `finance/finance_reimbursement_policy.md` — spending approvals, reimbursement timing, reporting, retention, and Stanford Federal Credit Union business checking handling
 
 ## Operations
 ### Projects

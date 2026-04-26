@@ -3,7 +3,7 @@ Date: _____________, 2026
 
 The undersigned officers of **CAN.dy Dance Project** (an unincorporated association based in San Jose, Santa Clara County, California) resolve as follows:
 
-1. **Authorization.** The Treasurer is authorized to open and maintain one or more deposit accounts in the name of **CAN.dy Dance Project** at ____________________________ (financial institution) and to execute account documents required by the financial institution.
+1. **Authorization.** The Treasurer is authorized to open and maintain one or more deposit accounts (including the Team business checking account) in the name of **CAN.dy Dance Project** at **Stanford Federal Credit Union** and to execute account documents required by the financial institution.
 
 2. **Authorized signers.** The following individuals are authorized signers on the account(s), as permitted by the financial institution:
 - Co-Director: __________________________  

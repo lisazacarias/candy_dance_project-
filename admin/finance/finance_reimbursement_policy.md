@@ -4,7 +4,7 @@ Effective: _________, 2026
 1. **Purpose.** Establish clear controls for handling Team funds and reimbursing expenses.
 
 2. **Accounts & recordkeeping.**
-- Team funds should flow through the Team bank account when feasible.
+- Team funds should flow through the Team business checking account at **Stanford Federal Credit Union** when feasible.
 - The Treasurer maintains a ledger by Project (income/expense categories) and retains receipts.
 
 3. **Spending approvals.**
