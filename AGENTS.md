@@ -4,9 +4,9 @@
 - This is a documentation-first repository; no application code, test suite, or build tooling was found.
 - `admin/` is now grouped by function: `governance/`, `finance/`, `operations/`, and `participant_forms/`.
 - `admin/operations/` is further split into `projects/`, `venues/`, and `records/`.
+- Generated PDFs are stored in `admin_pdfs/` using the same relative path as source files under `admin/`.
 - `classes/` is separate and stores teaching materials such as `classes/muevelo.md`.
-- Most admin files still have same-name `.md` and `.pdf` pairs; treat the Markdown as the editable source and keep the PDF counterpart in sync or explicitly note when it needs regeneration.
-- `.github/workflows/update-pdfs.yml` regenerates PDFs for `admin/**/*.md` on pushes to `main` by running `scripts/generate_pdfs.sh`.
+- `.github/workflows/update-pdfs.yml` regenerates PDFs for `admin/**/*.md` into `admin_pdfs/` on pushes to `main` by running `scripts/generate_pdfs.sh`.
 
 ## Source-of-truth relationships
 - Start with `admin/governance/bylaws.md`: other documents reuse its rules for approvals, role definitions, reimbursements, elections, and contract authority.

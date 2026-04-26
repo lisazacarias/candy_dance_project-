@@ -6,12 +6,14 @@ usage() {
 Generate PDFs for admin Markdown documents.
 
 Usage:
-  scripts/generate_pdfs.sh [--list] [--check-tools] [--root PATH] [--engine ENGINE]
+  scripts/generate_pdfs.sh [--list] [--check-tools] [--root PATH] [--pdf-root PATH] [--engine ENGINE]
 
 Options:
   --list         Print the Markdown -> PDF mappings without generating files.
   --check-tools  Validate required CLI tools and exit.
   --root PATH    Repository root to operate from. Defaults to the script's repo root.
+  --pdf-root PATH
+                 Directory where generated PDFs are written. Defaults to <repo>/admin_pdfs.
   --engine NAME  PDF engine to pass to pandoc. Defaults to xelatex.
   -h, --help     Show this help message.
 EOF
@@ -20,6 +22,7 @@ EOF
 mode="generate"
 engine="${PDF_ENGINE:-xelatex}"
 root=""
+pdf_root=""
 pandoc_bin="${PANDOC_BIN:-pandoc}"
 
 while [[ $# -gt 0 ]]; do
@@ -36,6 +39,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --engine)
       engine="$2"
+      shift
+      ;;
+    --pdf-root)
+      pdf_root="$2"
       shift
       ;;
     -h|--help)
@@ -56,10 +63,18 @@ if [[ -z "$root" ]]; then
   root="$(cd "$script_dir/.." && pwd)"
 fi
 
+if [[ -z "$pdf_root" ]]; then
+  pdf_root="${PDF_ROOT:-$root/admin_pdfs}"
+fi
+
 admin_dir="$root/admin"
 if [[ ! -d "$admin_dir" ]]; then
   echo "Admin directory not found: $admin_dir" >&2
   exit 1
+fi
+
+if [[ "$mode" == "generate" ]]; then
+  mkdir -p "$pdf_root"
 fi
 
 if [[ "$mode" == "generate" || "$mode" == "check-tools" ]]; then
@@ -90,7 +105,8 @@ if [[ ${#sources[@]} -eq 0 ]]; then
 fi
 
 for src in "${sources[@]}"; do
-  pdf="${src%.md}.pdf"
+  rel_src_admin="${src#"$admin_dir"/}"
+  pdf="$pdf_root/${rel_src_admin%.md}.pdf"
   rel_src="${src#"$root"/}"
   rel_pdf="${pdf#"$root"/}"
 
@@ -100,6 +116,7 @@ for src in "${sources[@]}"; do
   fi
 
   echo "Generating $rel_pdf"
+  mkdir -p "$(dirname "$pdf")"
   "$pandoc_bin" \
     "$src" \
     --from=gfm \

@@ -1,7 +1,7 @@
 # Admin Docs Index
 
 `admin/` contains the operating documents for `CAN.dy Dance Project`.
-Most files have Markdown/PDF pairs; edit the `.md` source and the `.pdf` companion will be regenerated on pushes to `main` by `.github/workflows/update-pdfs.yml`.
+Edit the `.md` source files here; generated PDFs are written to `admin_pdfs/` using the same relative path and regenerated on pushes to `main` by `.github/workflows/update-pdfs.yml`.
 
 ## Governance
 - `governance/bylaws.md` — core source of truth for roles, approvals, elections, reimbursements, and contract authority
