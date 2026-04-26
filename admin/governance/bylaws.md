@@ -63,8 +63,8 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
 
 ### Article 10 — Dues, payments, refunds
 1. **Project-based dues formula.** Dues are set per Project as follows:  
-   a) **Dancers:** (Number of scheduled rehearsals) × **$12.50**  
-   b) **Project Choreographer(s)/Artistic Director(s):** (Number of scheduled rehearsals) × **$6.25**  
+   a) **Dancers:** (Number of scheduled rehearsals) × **$20**  
+   b) **Project Choreographer(s)/Artistic Director(s):** (Number of scheduled rehearsals) × **$10**  
 2. **Due date.** Dues are due **one (1) week before** the first rehearsal of the Project, unless the Co-Directors state otherwise in writing for that Project.  
 3. **Nonpayment.** If dues are not paid within **one (1) week after** the due date, the participant’s spot may be forfeited and removal from the Project is automatic.  
 4. **Refunds.** If a participant drops out, CAN.dy may provide **prorated refunds** based on rehearsals attended before withdrawal, as determined by the Treasurer consistent with available funds and any nonrefundable expenses already incurred.  
