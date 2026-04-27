@@ -54,12 +54,13 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
    c) Team **brand/reputation** and public-facing risks.
 
 ### Article 9 — Decision-making and tie-break voting
-1. **Leadership decisions.** Ordinary Team business may be decided by majority vote of the Leadership Team, except where these bylaws require Co-Director approval.  
-2. **Co-Director disagreement.** If the Co-Directors disagree on any decision (business or creative), the decision will be submitted to a vote of eligible voters under Section 9.3, unless a decision is required immediately for safety.  
-3. **Eligible voters (tie-break).** Eligible voters are **members in good standing** as defined in Article 7.  
-4. **Voting method and threshold.** Votes may be conducted online. The decision passes by a **simple majority of votes cast**. Voting will remain open for **48 hours** from notice.  
-5. **Notice.** The Leadership Team will provide the question to be voted on and relevant context in writing at the start of the 48-hour window.  
-6. **Emergency safety exception.** For immediate safety issues, either Co-Director may pause a rehearsal/activity pending rapid Leadership review; the tie-break vote may follow if needed.
+1. **Regular Leadership Team meetings.** The Leadership Team will meet at least **monthly**. The regular target meeting date is the **last Sunday of each month**, unless the Leadership Team decides otherwise. Regular Leadership Team meetings are open to any interested members, except that the Leadership Team may close any portion of a meeting for sensitive matters.  
+2. **Leadership decisions.** Ordinary Team business may be decided by majority vote of the Leadership Team, except where these bylaws require Co-Director approval.  
+3. **Co-Director disagreement.** If the Co-Directors disagree on any decision (business or creative), the decision will be submitted to a vote of eligible voters under Section 9.4, unless a decision is required immediately for safety.  
+4. **Eligible voters (tie-break).** Eligible voters are **members in good standing** as defined in Article 7.  
+5. **Voting method and threshold.** Votes may be conducted online. The decision passes by a **simple majority of votes cast**. Voting will remain open for **48 hours** from notice.  
+6. **Notice.** The Leadership Team will provide the question to be voted on and relevant context in writing at the start of the 48-hour window.  
+7. **Emergency safety exception.** For immediate safety issues, either Co-Director may pause a rehearsal/activity pending rapid Leadership review; the tie-break vote may follow if needed.
 
 ### Article 10 — Dues, payments, refunds
 1. **Project-based dues formula.** Dues are set per Project as follows:  
@@ -86,8 +87,8 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
 2. **No peer-to-peer payments.** CAN.dy will avoid peer-to-peer payment services for Team transactions when feasible.  
 3. **If an individual pays on behalf of the Team.** If a participant or officer must pay a Team expense personally (e.g., to secure time-sensitive studio costs), they may request reimbursement under Article 11.5, subject to required approvals and available funds.
 
-### Article 13 — Appointed roles (including Social Media Manager and Project Coordinator)
-1. **Appointment (per Project).** The Co-Directors may appoint non-officer roles on a **per-Project** basis and define the scope in writing where practicable.  
+### Article 13 — Appointed roles (including Social Media Manager, Outreach Lead, and Project Coordinator)
+1. **Appointment.** The Co-Directors may appoint non-officer roles on a **per-Project or ongoing basis** and define the scope in writing where practicable.  
 2. **Project Coordinator.** The Co-Directors may appoint a **Project Coordinator** to support the Project Choreographer(s) and help execute Projects. Unless otherwise defined in writing for a specific Project, the Project Coordinator’s responsibilities may include:  
    a) coordinating schedules, rehearsal logistics, and project calendars;  
    b) serving as a primary liaison with venues, studios, and event organizers;  
@@ -96,7 +97,13 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
    The Project Coordinator does **not** have independent authority to bind CAN.dy to contracts or spending commitments unless expressly authorized in writing by both Co-Directors.  
 3. **Social Media Manager — approval during probation.** For the first **one (1) month** after appointment, the Social Media Manager must obtain approval from at least **one (1) Co-Director** before posting content on Team channels.  
 4. **After probation.** After the probationary period, the Social Media Manager may post without prior approval while still adhering to Team standards and any Co-Director direction.  
-5. **Removal.** Appointed roles may be ended by either Co-Director, or by majority vote of the Leadership Team.
+5. **Outreach Lead.** The Co-Directors may appoint an **Outreach Lead** to support community outreach, partnership cultivation, and external relationship follow-up. Unless otherwise defined in writing, the Outreach Lead’s responsibilities may include:  
+   a) responding to general outreach inquiries and partnership leads;  
+   b) coordinating sponsor, collaborator, or community follow-up;  
+   c) supporting event/community promotion in coordination with the Co-Directors and Social Media Manager; and  
+   d) helping maintain outreach records, contact lists, or opportunity trackers.  
+   The Outreach Lead does **not** have independent authority to bind CAN.dy to contracts, publicity commitments, or spending commitments unless expressly authorized in writing by both Co-Directors.  
+6. **Removal.** Appointed roles may be ended by either Co-Director, or by majority vote of the Leadership Team.
 
 ### Article 14 — Conduct, consent, and rehearsal policies
 1. **Respect & communication.** Participants must treat others with respect and communicate professionally.  

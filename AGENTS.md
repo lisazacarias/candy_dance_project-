@@ -22,12 +22,13 @@
 ## Approval and ownership rules that recur across files
 - Non-studio spending requires written approval from **both Co-Directors**; the Treasurer may pay studio fees without extra approval (`admin/governance/bylaws.md`, `admin/finance/finance_reimbursement_policy.md`, `admin/governance/bank_resolution.md`).
 - Only a Co-Director may sign contracts unless both Co-Directors delegate that authority in writing (`admin/governance/bylaws.md`, Article 19).
+- The appointed `Outreach Lead` is a non-officer role and may not bind CAN.dy to contracts, publicity commitments, or spending commitments unless expressly authorized in writing by both Co-Directors (`admin/governance/bylaws.md`, Article 13 and Article 19).
 - The Secretary is the recordkeeper for bylaws, access lists, agreements, and election records (`admin/governance/bylaws.md`, `admin/governance/account_data_access_policy.md`, `admin/governance/election_procedure.md`).
 - Reimbursements consistently require receipts/proof within 30 days, and officer reimbursements have conflict-of-interest approval rules (`admin/governance/bylaws.md`, `admin/finance/finance_reimbursement_policy.md`).
 
 ## Writing conventions visible in this repo
 - Match the existing style: bold document title line, short numbered sections, and explicit operational thresholds.
-- Keep role names and capitalization consistent: `Co-Directors`, `Treasurer`, `Secretary`, `Project Coordinator`, `Social Media Manager`, `Project Choreographer(s)` / `Artistic Director(s)`.
+- Keep role names and capitalization consistent: `Co-Directors`, `Treasurer`, `Secretary`, `Project Coordinator`, `Social Media Manager`, `Outreach Lead`, `Project Choreographer(s)` / `Artistic Director(s)`.
 - When editing related templates, propagate the same thresholds verbatim instead of rephrasing them (examples: 48-hour voting windows, 7-day offboarding, monthly reporting, 3-year retention).
 - Retain the repo’s concrete examples when useful, such as Drive naming like `YYYY-MM-DD — [VENUE] — [EVENT TYPE] — [PROJECT NAME]` from `admin/operations/records/drive_conventions.md`.
 

@@ -12,6 +12,8 @@ Effective: _________, 2026
 - Treasurer must have access needed for financial exports/reports.
 - Secretary maintains the access list and stores key documents.
 - Secretary should have read-only access to monthly banking reports/statements stored in Team Drive for recordkeeping.
+- An appointed **Outreach Lead** may be granted access, as needed, to outreach-related email, social, CRM/contact, or shared-drive materials relevant to their scope.
+- The Outreach Lead should not receive banking, governance, or contract-signing access by default and may not bind CAN.dy unless expressly authorized in writing by both Co-Directors.
 
 4. **Password management.**
 - Store credentials in a shared password manager/vault (preferred) or a secured document with restricted access.

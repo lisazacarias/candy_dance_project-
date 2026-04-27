@@ -91,6 +91,10 @@ Top-level: **CAN.dy Admin**
 - Relevant Project/Event folder(s) → `03 Marketing & Media` subfolder: **Editor**
 - All other folders: **No access** (unless needed)
 
+**Outreach Lead (appointed role)**
+- Relevant Project/Event folder(s), outreach tracker(s), or outreach materials subfolder(s): **Editor or Viewer** (as needed)
+- No access to 02 Finance and 03 Governance by default
+
 **Project Choreographer(s) (per project)**
 - Relevant Project/Event folder(s) (or a “Choreography & Rehearsal Notes” subfolder you create): **Editor or Viewer** (your choice)
 - No access to 02 Finance and 03 Governance by default
