@@ -6,17 +6,18 @@ The undersigned officers of **CAN.dy Dance Project** (an unincorporated associat
 
 We further acknowledge our respective roles and agree to follow these bylaws and any duly adopted Team policies.
 
-Co-Director: _______________________________  Date: ___________  
-Printed name: ______________________________
+Co-Director: _______________________________  Date: ________________    
+Printed name: Cat Tang
 
-Co-Director: _______________________________  Date: ___________  
-Printed name: ______________________________
+Co-Director: _______________________________  Date: ________________    
+Printed name: Andy Pham
 
-Treasurer: _________________________________  Date: ___________  
-Printed name: ______________________________
+Treasurer: _________________________________  Date: ________________    
+Printed name: Lisa Zacarias
 
-Secretary: _________________________________  Date: ___________  
-Printed name: ______________________________
+Secretary: _________________________________  Date: ________________    
+Printed name: Cherry Aslarona
 
 Attachments:  
 - CAN.dy Dance Project Bylaws
+- CAN.dy Leadership Roster (if maintained separately)

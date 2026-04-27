@@ -6,9 +6,9 @@ The undersigned officers of **CAN.dy Dance Project** (an unincorporated associat
 1. **Authorization.** The Treasurer is authorized to open and maintain one or more deposit accounts (including the Team business checking account) in the name of **CAN.dy Dance Project** at **Stanford Federal Credit Union** and to execute account documents required by the financial institution.
 
 2. **Authorized signers.** The following individuals are authorized signers on the account(s), as permitted by the financial institution:
-- Co-Director: __________________________  
-- Co-Director: __________________________  
-- Treasurer: ____________________________
+- Co-Director: Cat Tang  
+- Co-Director: Andy Pham  
+- Treasurer: Lisa Zacarias
 
 3. **Controls / approvals.**  
    a) The Treasurer is authorized to pay **studio fees** from Team funds without additional approval.  
@@ -23,7 +23,14 @@ The undersigned officers of **CAN.dy Dance Project** (an unincorporated associat
 
 Signatures:
 
-Co-Director: __________________________  Date: _________  
-Co-Director: __________________________  Date: _________  
-Treasurer: ____________________________  Date: _________  
-Secretary (acknowledgment of recordkeeping): ____________________  Date: _________
+Co-Director: __________________________  Date: ________________  
+Printed name: Cat Tang
+
+Co-Director: __________________________  Date: ________________    
+Printed name: Andy Pham
+
+Treasurer: ____________________________  Date: ________________    
+Printed name: Lisa Zacarias
+
+Secretary (acknowledgment of recordkeeping): ____________________  Date: ________________  
+Printed name: Cherry Aslarona
