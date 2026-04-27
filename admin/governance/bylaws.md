@@ -47,7 +47,7 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
 2. **Project proposals.** CAN.dy will accept project proposals on an ongoing basis from any person(s).  
 3. **Project selection timing.** The Co-Directors will select the next Project from the proposal pool **no later than one (1) month before the end of the current Project**, when practicable.  
 4. **Appointment.** Project Choreographer(s) are appointed by mutual agreement of the Co-Directors on a per-project basis.  
-5. **Creative authority.** Subject to Co-Director veto rights in Section 8.6, the Project Choreographer(s) have creative and operational authority for their Project, including: casting; rehearsal count and frequency; attendance policy for the Project; and setting the Project date.  
+5. **Creative authority.** Subject to Co-Director veto rights in Section 8.6, the Project Choreographer(s) have creative and operational authority for their Project, including: casting; rehearsal count and frequency; attendance policy for the Project (including stricter project-specific requirements if desired); and setting the Project date.  
 6. **Co-Director veto (safety/budget/brand).** The Co-Directors retain veto authority over Project decisions necessary to address:  
    a) participant **safety**, including physical safety and harassment prevention;  
    b) **budget/financial** constraints; and  
@@ -101,8 +101,9 @@ CAN.dy is organized for community/artistic purposes and is not intended to distr
 ### Article 14 — Conduct, consent, and rehearsal policies
 1. **Respect & communication.** Participants must treat others with respect and communicate professionally.  
 2. **Consent-based partnering.** All partnering/contact choreography must be **consent-based**; anyone may decline any contact without retaliation.  
-3. **Closed rehearsals.** Rehearsals are closed to nonparticipants unless the Project Choreographer(s) and Co-Directors approve otherwise.  
-4. **Further code of conduct.** The Leadership Team may adopt a more detailed code of conduct consistent with these bylaws.
+3. **Base attendance notice.** Dancers must provide at least **two (2) hours’ notice** if they will miss a rehearsal, unless notice is not reasonably possible due to illness, injury, or other serious unforeseen circumstance. Project Choreographer(s) may adopt a stricter attendance policy for a specific Project.  
+4. **Closed rehearsals.** Rehearsals are closed to nonparticipants unless the Project Choreographer(s) and Co-Directors approve otherwise.  
+5. **Further code of conduct.** The Leadership Team may adopt a more detailed code of conduct consistent with these bylaws.
 
 ### Article 15 — Discipline, dismissal, and appeal
 1. **Behavioral dismissal.** Dismissing someone from the Team or a Project for behavioral issues requires a **unanimous** decision of the Project Choreographer(s) and both Co-Directors.  

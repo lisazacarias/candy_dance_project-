@@ -20,6 +20,7 @@ ______________________________________________________________
 9) **Estimated cast size:** ________  
 10) **Casting method:** ☐ Invite ☐ Open call ☐ Audition ☐ Other: _________  
 11) **Attendance expectations (brief):** _________________________________  
+   *(Base bylaw rule: dancers give at least 2 hours’ notice for a missed rehearsal unless notice is not reasonably possible due to illness, injury, or other serious unforeseen circumstance; stricter project rules may be proposed.)*  
 12) **Number of rehearsals:** ________  **Length:** ________ hours each  
 13) **Proposed rehearsal days/times:** ___________________________________  
 14) **Studio needs:** space type, flooring, mirrors, chairs/props, etc.  
